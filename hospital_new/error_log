@@ -1,0 +1,82 @@
+[08-Mar-2019 08:17:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[08-Mar-2019 08:24:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[08-Mar-2019 08:43:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[08-Mar-2019 08:43:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 06:16:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 06:24:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 06:26:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 07:22:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 07:25:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 07:30:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 07:55:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 08:08:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 08:25:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 09:17:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 10:02:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 10:57:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:00:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:02:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:02:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:05:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:07:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:15:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:30:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:36:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:39:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:42:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:45:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:45:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:47:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 11:56:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 12:03:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 12:13:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 12:14:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 12:26:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 12:27:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 12:34:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 14:03:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 20:10:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 20:57:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 21:11:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 21:11:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 21:34:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[10-Mar-2019 21:46:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 10:44:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 10:55:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 12:18:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 12:27:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 12:28:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 12:31:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 12:33:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 12:35:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[12-Mar-2019 12:36:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[14-Mar-2019 05:20:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[14-Mar-2019 05:21:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[14-Mar-2019 05:30:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[14-Mar-2019 05:50:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[14-Mar-2019 05:55:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[14-Mar-2019 07:44:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 07:03:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 07:06:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 13:15:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 13:55:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 15:03:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 15:04:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 18:40:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 19:36:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[15-Mar-2019 19:45:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[30-Mar-2019 19:03:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[02-Apr-2019 11:41:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:41:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:41:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:41:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:41:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:41:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:41:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:41:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:42:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:42:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:42:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sabkuchhbechde/public_html/hospital/ajaxData.php on line 11
+[02-Apr-2019 11:45:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[02-Apr-2019 11:52:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
+[02-Apr-2019 12:06:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sabkuchhbechde/public_html/hospital/logout.php on line 2
